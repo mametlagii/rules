@@ -974,3 +974,8 @@ payload:
   - DOMAIN-KEYWORD,byu.id
   - DOMAIN-KEYWORD,liveon.id
 
+# > xl App
+# Client Patch
+  - DOMAIN-KEYWORD,xl.co.id
+  - DOMAIN-KEYWORD,xlaxiata.co.id
+
